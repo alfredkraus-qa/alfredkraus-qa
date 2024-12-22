@@ -1,5 +1,4 @@
-## Olá família! 👋 Eu sou o Alfred Kraus! (OBS: Não trabalho mais para o Bruce Wayne) 
-
+## Olá família! 👋 Eu sou o Alfred Kraus! (OBS: Não trabalho mais para o Bruce Wayne) 🦹🏻🦇
 - 🔭 Hoje estou migrando para área de QA
 - 🌱 Estudando: JavaScript | HTML | CSS | Git | Crypress | Postman
 
